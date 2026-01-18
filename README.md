@@ -25,6 +25,8 @@ A Telnet-based MCP tool for Cisco network device CLI, optimized for Cisco IOS de
 ### Installation
 
 ```bash
+git clone https://github.com/XunMInt/cisco-cli-mcp.git
+cd cisco-cli-mcp
 pip install -e .
 ```
 
@@ -111,6 +113,8 @@ You are a Cisco network device configuration assistant, skilled in configuring r
 ### 安装
 
 ```bash
+git clone https://github.com/XunMInt/cisco-cli-mcp.git
+cd cisco-cli-mcp
 pip install -e .
 ```
 
